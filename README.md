@@ -9,4 +9,6 @@ For this assignment, I have been asked to:
 ## Content
 
 In this repository, you will find:
-- 
+- part_1_mars_news.ipynb: containing the code for deliverable 1 of the assignment
+- part_2_mars_weather.ipynb: containing the code for deliverable 2 of the assignment
+- Mars_df.csv: the CSV files with the Mars Dataframe as requested under deliverable 2 of the assignment
